@@ -1,0 +1,20 @@
+Product Name, Product Code, IMEI or Serial Numbers, Expected, Counted
+aaa,16271940,,7,
+aaa,16271940,,1,
+aaa,16271940,,2,
+eeee,87351162,,0,
+3332,37782106,,2,
+kkkk,27914013,,0,
+hhh,77096265,,15,
+hhh,77096265,,8,
+pos,34759931,,1,
+aabb,62341306,,11,
+aabb,62341306,,0,
+new product,13292503,,-1,
+new product,13292503,,5,
+new product,13292503,,3,
+new product,13292503,,5,
+AAAA1,13998387,,3,4
+AAAA1,13998387,,0,
+AAAA1,13998387,,0,
+AAAA1,13998387,,13,15
