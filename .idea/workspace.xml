@@ -1,0 +1,1795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="026aabf4-d69c-43d0-a73d-ed99c8d9e75b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/backend/quotation/print.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/commandlinetools/Laravel_6_25_25__5_40PM.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inventoryzaman.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Config/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Config/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Console/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2022_09_05_213845_create_sliders_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2022_09_05_214402_create_pages_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2022_09_05_235844_add_multiple_column_to_categories_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2022_09_06_215257_add_symbol_to_currencies_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2022_09_13_194813_create_links_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2022_09_14_151339_add_widget_title_to_links_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2022_09_14_151904_add_multiple_column_to_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2023_10_05_190729_create_ecommerce_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2023_10_05_201640_create_social_links_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2023_10_08_211633_crete_menus_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2023_10_08_211806_crete_menu_items_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2023_10_12_101855_crete_widgets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2023_10_19_211003_crete_page_widgets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2023_11_09_110943_crete_collections_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2023_11_09_113224_crete_customer_addresses_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2023_11_09_113237_crete_faqs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2023_11_09_114154_add_multiple_columns_to_brands_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2023_11_09_125124_crete_faq_categories_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2023_11_14_155545_crete_newsletter_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2023_12_01_110636_add_multiple_columns_to_sales_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2024_01_27_185652_add_multiple_columns_to_ecommerce_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2024_02_03_183124_add_multiple_columns_to_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2024_02_06_133230_edi_sales_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2024_02_12_235611_change_page_widgets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2024_02_18_175556_add_columns_to_customers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2024_03_03_231218_add_gift_card_to_ecommerce_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2024_03_18_150001_crete_blogs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2024_06_09_155352_add_theme_color_to_ecommerce_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2024_06_12_222658_edit_page_widgets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2024_07_22_235454_add_search_to_ecommerce_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2024_10_10_102444_add_is_rtl_to_ecommerce_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2024_10_25_202721_alter_ecommerce_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2024_11_11_170940_alter_page_widgets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Migrations/2024_11_23_225726_change_ecommerce_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Seeders/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/Seeders/EcommerceDatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Database/factories/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Entities/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Entities/Blog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Entities/MenuItems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Entities/Menus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Entities/Page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Entities/PageWidgets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Entities/Sliders.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Entities/SocialLinks.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Entities/Widgets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/AuthController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/BlogController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/BlogsController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/CartController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/CheckoutController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/CollectionController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/AuthController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/CartController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/CheckoutController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/CollectionController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/CustomerController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/EcommerceController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/EcommerceSettingController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/FaqCategoriesController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/FaqController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/FrontController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/MenuController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/MenuItemsController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/OrdersController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/PageController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/PageWidgetController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/SliderController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/SocialLinksController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/Controllers/WidgetController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/CustomerController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/EcommerceController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/EcommerceSettingController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/FaqCategoriesController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/FaqController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/FrontController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/MenuController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/MenuItemsController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/OrdersController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/PageController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/PageWidgetController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/SliderController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/SocialLinksController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/SslCommerzPaymentController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/WidgetController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Controllers/delivery.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Middleware/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Middleware/CustomerAuth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Middleware/Ecommerce.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Http/Requests/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Mail/ContactUs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Mail/Verify.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Mail/VerifyCode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Providers/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Providers/EcommerceServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/assets/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/lang/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/blogs/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/blogs/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/blogs/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/collection/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/collection/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/collection/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/faq-category/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/faq/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/layout/sidebar-menu.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/menu/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/menu/menu-items.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/pages/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/pages/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/pages/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/settings/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/settings/payment-gateways.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/slider/sliders.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/social/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/widgets/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/backend/widgets/widget-loop.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/account-details.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/addresses.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/blog-details.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/blog.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/brand-products-load-more.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/brand-products.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/cancel.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/cart.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/category.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/change-password.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/checkout-online.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/checkout.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/collection-products.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/collections.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/contact.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/customer-menu.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/dashboard.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/email/contact.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/email/verify-code.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/email/verify.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/faq.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/forgot-password.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/home.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/includes/brand-slider-widget.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/includes/category-slider-widget.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/includes/image-slider-widget.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/includes/one-c-banner-widget.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/includes/product-category-widget.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/includes/product-collection-widget.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/includes/product-template-search.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/includes/product-template.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/includes/recently-viewed-products.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/includes/related-product-template.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/includes/tab-product-category-widget.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/includes/tab-product-collection-widget.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/includes/text-widget.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/includes/three-c-banner-widget.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/includes/two-c-banner-widget.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/layout/header/header-fashion.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/layout/header/header.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/layout/main.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/order-details.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/orders.blade copy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/orders.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/page-show.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/privacy-policy.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/product-details.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/products-load-more.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/products-search.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/products.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/rating.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/refund.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/registration.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/shop.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/success.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/terms.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/track-order.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/verify-code.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/verify-otp.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/frontend/wishlist.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Resources/views/layouts/master.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Routes/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Routes/web-old.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Tests/Feature/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/Tests/Unit/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/assets/css/bootstrap-select.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/assets/css/payment-fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/assets/css/plugins.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/assets/css/style copy.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/assets/css/style-fashion.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/assets/js/bootstrap-select.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/assets/js/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/assets/js/sortable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/assets/js/sortable2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/assets/js/swiper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/module.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Ecommerce/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Config/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Config/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Console/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Database/Migrations/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Database/Migrations/2024_09_01_120515_create_productions_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Database/Migrations/2024_09_01_120536_create_product_productions_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Database/Seeders/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Database/Seeders/ManufacturingDatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Database/factories/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Entities/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Entities/ProductProduction.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Entities/Production.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Http/Controllers/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Http/Controllers/ManufacturingController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Http/Controllers/ProductionController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Http/Middleware/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Http/Requests/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Providers/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Providers/ManufacturingServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Resources/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Resources/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Resources/assets/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Resources/lang/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Resources/views/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Resources/views/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Resources/views/layouts/master.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Resources/views/production/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Resources/views/production/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Routes/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Tests/Feature/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/Tests/Unit/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/module.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/Manufacturing/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Console/Commands/AutoPurchase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Console/Commands/DailyQuote.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Console/Commands/DsoAlert.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Console/Commands/ResetDB.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Contracts/Payble/PaybleContract.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Contracts/Sms/CheckBalanceInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Contracts/Sms/SendSmsInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/AccountsController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/AddonInstallController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/AdjustmentController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/AgentController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/AreaController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/AttendanceController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Auth/ConfirmPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Auth/SuperAdminLoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/BarcodeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/BillerController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/BrandController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/CashRegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/CategoryController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/ChallanController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/ClientAutoUpdateController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/CompanyController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/CouponController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/CourierController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/CurrencyController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/CustomFieldController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/CustomerController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/CustomerGroupController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/DashboardController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/DeliveryController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/DepartmentController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/DeveloperSectionController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/DiscountController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/DiscountPlanController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/EmployeeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/ExpenseCategoryController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/ExpenseController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/GiftCardController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/GroupController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/HolidayController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/IncomeCategoryController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/IncomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/InquiryController copy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/InquiryController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/LabelsController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/LanguageController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/LanguageSettingController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/MoneyTransferController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/NotificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/PackingSlipController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/PayrollController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/ProductController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/PurchaseController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/QuotationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/ReportController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/ReturnController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/ReturnController1111.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/ReturnPurchaseController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/RoleController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/SaasInstallController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/SaleController copy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/SaleController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/SettingController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/SmsTemplateController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/StockCountController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/SupplierController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/TableController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/TaxController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/TermSettingController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/TestController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/TransferController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/UnitController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/UserController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/VariantController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/WarehouseController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/WarrentyController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/Active.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/CheckSmsBalance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/Common.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/Cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/SuperAdminAuth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Requests/SaasInstallationRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/BillerCreate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/CustomerCreate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/CustomerDeposit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/DeliveryChallan.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/DeliveryDetails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/HolidayApprove.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/LogMessage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/PaymentDetails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/PayrollDetails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/QuotationDetails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/ReturnDetails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/SaleDetails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/SupplierCreate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/TenantCreate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/TransferDetails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Mail/UserDetails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Account.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Adjustment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Agent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Area.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Attendance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Barcode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Biller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Brand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/CashRegister.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Category.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Challan.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/City.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Company.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Country.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Coupon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Courier.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Currency.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/CustomField.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Customer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/CustomerGroup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Delivery.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Department.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Deposit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Discount.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/DiscountPlan.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/DiscountPlanCustomer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/DiscountPlanDiscount.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Employee.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Expense.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/ExpenseCategory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/ExternalService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/GeneralSetting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/GiftCard.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/GiftCardRecharge.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Group.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/HasFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Holiday.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/HrmSetting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Income.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/IncomeCategory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Inquiry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Language.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/MailSetting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Model.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/MoneyTransfer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/PackingSlip.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/PackingSlipProduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Payment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/PaymentWithCheque.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/PaymentWithCreditCard.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/PaymentWithGiftCard.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/PaymentWithPaypal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Payroll.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/PosSetting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/ProductAdjustment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/ProductBatch.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/ProductPurchase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/ProductQuotation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/ProductReturn.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/ProductTransfer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/ProductVariant.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Product_Sale.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Product_Supplier.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Product_Warehouse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Purchase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/PurchaseProductReturn.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Quotation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Rating.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/ReturnPurchase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Returns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/RewardPointSetting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Roles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Sale.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/SalePrice.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/SmsTemplate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/State.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/StockCount.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Supplier.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Tax.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Terms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Transfer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Unit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Variant.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Models/Warehouse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Notifications/SendNotification.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/SMSProviders/BdBulkSms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/SMSProviders/Clickatell.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/SMSProviders/ReveSms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/SMSProviders/SmsToday.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/SMSProviders/TonkraSms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/SMSProviders/Twilio.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Services/PaymentService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Services/SmsService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/StockCount/.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Traits/AutoUpdateTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Traits/CacheForget.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Traits/ENVFilePutContent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Traits/FileHandleTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Traits/JSONFileTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Traits/MailInfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Traits/StaffAccess.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Traits/TenantInfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/ViewModels/ISmsModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/ViewModels/SmsModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/cache/ecommerce_module.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/cache/manufacturing_module.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/cache/pac110F.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/cache/pac113F.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/cache/pac1140.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/cache/packages.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/cache/restaurant_module.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/cache/ser1444.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/cache/serC386.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/cache/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/cache/woocommerce_module.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/auto_update.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/debugbar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/modules.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/printing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/factories/CountryFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_02_17_060412_create_categories_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_02_20_035727_create_brands_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_02_25_100635_create_suppliers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_02_27_101619_create_warehouse_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_03_03_040448_create_units_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_03_04_041317_create_taxes_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_03_10_061915_create_customer_groups_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_03_10_090534_create_customers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_03_11_095547_create_billers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_04_05_054401_create_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_04_06_133606_create_purchases_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_04_06_154600_create_product_purchases_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_04_06_154915_create_product_warhouse_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_04_10_085927_create_sales_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_04_10_090133_create_product_sales_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_04_10_090254_create_payments_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_04_10_090341_create_payment_with_cheque_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_04_10_090509_create_payment_with_credit_card_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_04_13_121436_create_quotation_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_04_13_122324_create_product_quotation_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_04_14_121802_create_transfers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_04_14_121913_create_product_transfer_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_05_13_082847_add_payment_id_and_change_sale_id_to_payments_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_05_13_090906_change_customer_id_to_payment_with_credit_card_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_05_20_054532_create_adjustments_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_05_20_054859_create_product_adjustments_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_05_21_163419_create_returns_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_05_21_163443_create_product_returns_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_06_02_050905_create_roles_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_06_02_073430_add_columns_to_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_06_03_053738_create_permission_tables.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_06_21_063736_create_pos_setting_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_06_21_094155_add_user_id_to_sales_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_06_21_101529_add_user_id_to_purchases_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_06_21_103512_add_user_id_to_transfers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_06_23_061058_add_user_id_to_quotations_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_06_23_082427_add_is_deleted_to_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_06_25_043308_change_email_to_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_07_06_115449_create_general_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_07_08_043944_create_languages_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_07_11_102144_add_user_id_to_returns_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_07_11_102334_add_user_id_to_payments_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_07_22_130541_add_digital_to_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_07_24_154250_create_deliveries_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_08_16_053336_create_expense_categories_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_08_17_115415_create_expenses_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_08_18_050418_create_gift_cards_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_08_19_063119_create_payment_with_gift_card_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_08_25_042333_create_gift_card_recharges_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_08_25_101354_add_deposit_expense_to_customers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_08_26_043801_create_deposits_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_09_02_044042_add_keybord_active_to_pos_setting_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_09_09_092713_create_payment_with_paypal_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_09_10_051254_add_currency_to_general_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_10_22_084118_add_biller_and_store_id_to_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_10_26_034927_create_coupons_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_10_27_090857_add_coupon_to_sales_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_11_07_070155_add_currency_position_to_general_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_11_19_094650_add_combo_to_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_12_09_043712_create_accounts_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_12_17_112253_add_is_default_to_accounts_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_12_19_103941_add_account_id_to_payments_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_12_20_065900_add_account_id_to_expenses_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_12_20_082753_add_account_id_to_returns_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_12_26_064330_create_return_purchases_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_12_26_144708_create_purchase_product_return_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_12_27_110018_create_departments_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_12_30_054844_create_employees_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_12_31_125210_create_payrolls_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2018_12_31_150446_add_department_id_to_employees_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_01_01_062708_add_user_id_to_expenses_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_01_02_075644_create_hrm_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_01_02_090334_create_attendances_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_01_27_160956_add_three_columns_to_general_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_02_15_183303_create_stock_counts_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_02_17_101604_add_is_adjusted_to_stock_counts_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_04_13_101707_add_tax_no_to_customers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_10_14_111455_create_holidays_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_11_13_145619_add_is_variant_to_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_11_13_150206_create_product_variants_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_11_13_153828_create_variants_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_11_25_134041_add_qty_to_product_variants_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_11_25_134922_add_variant_id_to_product_purchases_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_11_25_145341_add_variant_id_to_product_warehouse_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_11_29_182201_add_variant_id_to_product_sales_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_12_04_121311_add_variant_id_to_product_quotation_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_12_05_123802_add_variant_id_to_product_transfer_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_12_08_114954_add_variant_id_to_product_returns_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_12_08_203146_add_variant_id_to_purchase_product_return_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_02_28_103340_create_money_transfers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_07_01_193151_add_image_to_categories_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_09_26_130426_add_user_id_to_deliveries_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_10_11_125457_create_cash_registers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_10_13_155019_add_cash_register_id_to_sales_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_10_13_172624_add_cash_register_id_to_returns_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_10_17_212338_add_cash_register_id_to_payments_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_10_18_124200_add_cash_register_id_to_expenses_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_10_21_121632_add_developed_by_to_general_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_10_30_135557_create_notifications_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_11_01_044954_create_currencies_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_11_01_140736_add_price_to_product_warehouse_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_11_02_050633_add_is_diff_price_to_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_11_09_055222_add_user_id_to_customers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_11_17_054806_add_invoice_format_to_general_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_02_10_074859_add_variant_id_to_product_adjustments_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_03_07_093606_create_product_batches_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_03_07_093759_add_product_batch_id_to_product_warehouse_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_03_07_093900_add_product_batch_id_to_product_purchases_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_03_11_132603_add_product_batch_id_to_product_sales_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_03_25_125421_add_is_batch_to_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_05_19_120127_add_product_batch_id_to_product_returns_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_05_22_105611_add_product_batch_id_to_purchase_product_return_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_05_23_124848_add_product_batch_id_to_product_transfer_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_05_26_153106_add_product_batch_id_to_product_quotation_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_06_08_213007_create_reward_point_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_06_16_104155_add_points_to_customers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_06_17_101057_add_used_points_to_payments_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_07_06_132716_add_variant_list_to_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_09_27_161141_add_is_imei_to_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_09_28_170052_add_imei_number_to_product_warehouse_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_09_28_170126_add_imei_number_to_product_purchases_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_10_03_170652_add_imei_number_to_product_sales_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_10_10_145214_add_imei_number_to_product_returns_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_10_11_104504_add_imei_number_to_product_transfer_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_10_12_160107_add_imei_number_to_purchase_product_return_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2021_10_12_205146_add_is_rtl_to_general_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2022_01_13_191242_create_discount_plans_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2022_01_14_174318_create_discount_plan_customers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2022_01_14_202439_create_discounts_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2022_01_16_153506_create_discount_plan_discounts_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2022_02_05_174210_add_order_discount_type_and_value_to_sales_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2022_05_26_195506_add_daily_sale_objective_to_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2022_05_28_104209_create_dso_alerts_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2022_06_01_112100_add_is_embeded_to_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2022_06_14_130505_add_sale_id_to_returns_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2022_07_19_115504_add_variant_data_to_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2022_07_25_194300_add_additional_cost_to_product_variants_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2022_09_04_195610_add_purchase_id_to_return_purchases_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_01_18_125040_alter_table_general_settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_01_18_133701_alter_table_pos_setting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_01_25_145309_add_expiry_date_to_general_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_02_23_125656_alter_table_sales.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_02_26_124100_add_package_id_to_general_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_03_04_120325_create_custom_fields_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_03_14_174658_add_subscription_type_to_general_setting_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_03_22_174352_add_currency_id_and_exchange_rate_to_returns_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_03_27_114320_add_currency_id_and_exchange_rate_to_purchases_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_03_27_132747_add_currency_id_and_exchange_rate_to_return_purchases_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_04_25_150236_create_mail_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_05_13_125424_add_zatca_to_general_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_05_28_155540_create_tables_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_05_29_115039_add_is_table_to_pos_setting_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_05_29_115301_add_table_id_to_sales_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_05_31_165049_add_queue_no_to_sales_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_07_23_160254_create_couriers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_07_23_174343_add_courier_id_to_deliveries_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_08_12_124016_add_staff_id_to_employees_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_08_14_142608_add_is_active_to_currencies_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_08_24_130203_change_columns_to_attendances_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_09_10_134503_add_without_stock_to_general_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_09_26_211542_add_modules_to_general_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_10_15_124306_add_return_qty_to_product_sales_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2023_12_03_235606_crete_external_services_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_02_04_131826_add_unit_cost_to_product_adjustments_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_02_13_173126_change_modules_to_general_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_05_02_114215_add_payment_receiver_to_payments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_05_06_132553_create_sms_templates_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_05_07_102225_add_send_sms_to_pos_setting_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_05_07_132625_add_is_default_to_sms_templates_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_05_08_112211_change_address_and_city_field_to_nullable_in_customers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_05_08_151050_add_is_default_ecommerce_columne_to_sms_templates_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_05_20_182757_add_wholesale_price_to_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_05_21_170500_add_is_sent_to_transfers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_06_04_225113_create_income_categories_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_06_04_225128_create_incomes_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_06_29_131917_add_is_packing_slip_to_general_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_07_05_192531_create_packing_slips_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_07_05_193002_create_packing_slip_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_07_05_194501_add_is_packing_and_delivered_to_product_sales_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_07_14_122245_add_delivery_id_to_packing_slips_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_07_14_122415_add_variant_id_to_packing_slip_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_07_14_122519_add_packing_slip_ids_to_deliveries_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_07_16_125908_create_challans_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_08_12_112830_add_thermal_invoice_size_to_pos_setting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_08_14_133351_add_expiry_type_value_to_general_settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_09_11_151744_add_return_qty_to_product_purchases_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_09_12_162309_create_barcodes_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_10_10_121312_add_data_to_payment_with_credit_card_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_10_10_212501_alter_attendances_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_10_10_213757_alter_attendances_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_10_14_144917_change_column_to_nullable_to_payment_with_credit_card_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_11_10_121521_add_code_and_type_to_accounts_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_11_24_100926_add_module_status_to_external_services_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2024_12_10_201131_add_columns_to_tables_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2025_01_20_121127_add_warranty_and_guarantee_to_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2025_06_23_163638_create_areas_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2025_06_24_052436_create_groups_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2025_06_25_143013_create_companies_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2025_06_29_105018_add_department_id_to_customers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2025_06_30_100500_create_terms_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/tests/Feature/UserTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/tests/Unit/UserTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/track/control.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/track/fetch-data-bug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/track/fetch-data-upgrade.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/track/general.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/track/sample.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/routes/web_old.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/seeders/BarcodeSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/seeders/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/seeders/ExternalServicesSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../find_untranslated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modules_statuses.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phpunit.xml.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/beep/beep-07.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/beep/beep-timber.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/css/auth.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/css/custom-default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/css/custom-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/css/dripicons/fonts/dripicons-v2.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/css/dripicons/fonts/dripicons-v2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/css/dripicons/fonts/dripicons-v2.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/css/dripicons/fonts/dripicons-v2.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/css/dripicons/webfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/css/dropzone.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/css/grasp_mobile_progress_circle-1.0.0.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/css/style.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/data/countries.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/documents/Faston mahfil 18.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/documents/Hisabi.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/documents/Poster mahfil 18.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/documents/quotation/20241017011849.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/downloads/2018-02-25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/downloads/2018-02-26.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/downloads/2018-02-27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/downloads/2018-02-28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/downloads/2018-03-11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/downloads/Biller-2018-03-12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/downloads/Warehouse- 28-02-2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/downloads/customer- 11-03-2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/downloads/customer_group- 10-03-2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/downloads/product- 03-04-2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/downloads/product- 10-03-2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/downloads/tax- 04-03-2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/downloads/unit- 03-03-2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/css/bootstrap-select.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/css/payment-fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/css/plugins.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/fonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/fonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/fonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/fonts/payment-webfont-master/fonts/payment-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/fonts/payment-webfont-master/fonts/payment-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/fonts/payment-webfont-master/fonts/payment-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/fonts/payment-webfont-master/fonts/payment-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/fonts/themify.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/fonts/themify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/fonts/themify.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/fonts/themify.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/js/bootstrap-select.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/frontend/js/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/icons/icon-128x128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/icons/icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/icons/icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/icons/icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/icons/icon-384x384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/icons/icon-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/icons/icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/icons/icon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/js/charts-custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/js/charts-home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/js/dropzone-backup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/js/dropzone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/js/front.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/js/front_rtl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/js/grasp_mobile_progress_circle-1.0.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/js/sortable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/js/sortable2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo/20230718035103.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo/20240108123804.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo/20250123024505.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo/20250413013605.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo/20250701054249.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo/sale pro logo 183x50 pix-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/offline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/product/files/1532329769.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/purchase/documents/30947.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/saas-install-assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/saas-install-assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/saas-install-assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/saas-install-assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/saas-install-assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/saas-install-assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/saas-install-assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/saas-install-assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/saas-install-assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/saas-install-assets/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/saas-install-assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/saas-install-assets/images/purchasecode.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/saas-install-assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/saas-install-assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sale_price/20250306-014031.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sale_price/20250306-105757.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sale_price/20250306-112106.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sale_price/20250306-115259.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sale_price/20250306-115336.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sale_price/20250306-115425.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sale_price/20250306-121823.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sale_price/20250306-121858.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sale_price/20250306-125755.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sample_file/sample_biller.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sample_file/sample_brand.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sample_file/sample_category.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sample_file/sample_customer.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sample_file/sample_customer_group.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sample_file/sample_expense_category.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sample_file/sample_products.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sample_file/sample_purchase_products.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sample_file/sample_sale_products.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sample_file/sample_supplier.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sample_file/sample_tax.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sample_file/sample_transfer_products.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sample_file/sample_unit.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/sample_file/sample_warehouse.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/stock_count/20250304-030447.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/stock_count/20250305-022759.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/stock_count/20250305-025643.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/stock_count/20250305-030624.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/stock_count/20250306-111316.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/stock_count/20250316-041053.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/stock_count/20250316-041249.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/transfer/documents/Project proposal-2011331018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/uploads/attachments/1746619703_sxd.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/uploads/attachments/1746619898_sxd.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/uploads/attachments/1746622919_sxd.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/uploads/attachments/1747038824_Zaman sdfsdfMachinaries.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/css/bootstrap-toggle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/css/bootstrap-toggle.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/css/bootstrap2-toggle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/css/bootstrap2-toggle.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/doc/header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/doc/nyt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/doc/nytdev.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/doc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/doc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/js/bootstrap-toggle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/js/bootstrap-toggle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/js/bootstrap-toggle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/js/bootstrap2-toggle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/js/bootstrap2-toggle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/js/bootstrap2-toggle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap-toggle/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/css/awesome-bootstrap-checkbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/css/bootstrap-datepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/css/bootstrap-rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/css/bootstrap-select.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/js/bloodhound.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/js/bootstrap-select.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/js/bootstrap-typeahead.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/chart.js/Chart.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/chart.js/Chart.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/chart.js/Chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/chart.js/Chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/buttons.bootstrap4.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/buttons.bootstrap4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/buttons.colVis.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/buttons.html5.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/buttons.print.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/buttons.printnew.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/dataTables.bootstrap4.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/dataTables.bootstrap4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/dataTables.buttons.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/dataTables.checkboxes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/dataTables.checkboxes.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/dataTables.select.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/jquery.dataTables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/jszip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/pdfmake.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/pdfmake_arabic.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/select.bootstrap4.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/sum().js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/vfs_fonts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/datatable/vfs_fonts_arabic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/daterange/css/daterangepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/daterange/css/daterangepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/daterange/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/daterange/js/daterangepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/daterange/js/jquery.3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/daterange/js/knockout-3.4.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/daterange/js/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/dripicons/fonts/dripicons-v2.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/dripicons/fonts/dripicons-v2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/dripicons/fonts/dripicons-v2.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/dripicons/fonts/dripicons-v2.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/dripicons/webfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/dropzone/dropzone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/font-awesome/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/GruntFile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/__tests__/timepicker-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/jquery.timepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/jquery.timepicker.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/jquery.timepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/jquery.timepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/jquery.timepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/jt.timepicker.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/lib/bootstrap-datepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/lib/bootstrap-datepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/lib/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/lib/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/lib/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/lib/site.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-timepicker/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/additional-methods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/jquery.validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_bn_BD.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_es_AR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_es_PE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_ge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_hy_AM.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_ka.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_kk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_pt_BR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_pt_PT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_sd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_sr_lat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_tj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_ur.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/messages_zh_TW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/methods_de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/methods_es_CL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/methods_fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/methods_nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery-validation/localization/methods_pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery.cookie/MIT-LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery.cookie/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery.cookie/cookie.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery.cookie/jquery.cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery/bootstrap-datepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/jquery/jquery.timepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/css/images/disabled.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/css/images/enabled.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/css/images/keyboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/css/keyboard-basic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/css/keyboard-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/css/keyboard-previewkeyset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/css/keyboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/js/jquery.keyboard.extension-all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/js/jquery.keyboard.extension-altkeyspopup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/js/jquery.keyboard.extension-autocomplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/js/jquery.keyboard.extension-caret.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/js/jquery.keyboard.extension-extender.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/js/jquery.keyboard.extension-mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/js/jquery.keyboard.extension-navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/js/jquery.keyboard.extension-previewkeyset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/js/jquery.keyboard.extension-scramble.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/js/jquery.keyboard.extension-typing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/js/jquery.keyboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/keyboard/js/jquery.mousewheel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/malihu-custom-scrollbar-plugin/mCSB_buttons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/popper.js/esm/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/popper.js/esm/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/popper.js/esm/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/popper.js/esm/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/popper.js/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/popper.js/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/popper.js/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/popper.js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/popper.js/umd/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/popper.js/umd/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/popper.js/umd/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/popper.js/umd/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/stripe/checkout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/LICENSE.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/jquery.tinymce.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/langs/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/advlist/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/anchor/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/autolink/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/autoresize/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/autosave/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/bbcode/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/charmap/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/code/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/codesample/css/prism.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/codesample/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/colorpicker/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/contextmenu/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/directionality/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-cool.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-cry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-embarassed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-frown.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-innocent.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-kiss.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-laughing.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-sealed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-surprised.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-undecided.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-wink.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/img/smiley-yell.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/emoticons/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/fullpage/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/fullscreen/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/help/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/help/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/hr/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/image/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/imagetools/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/importcss/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/insertdatetime/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/legacyoutput/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/link/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/lists/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/media/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/nonbreaking/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/noneditable/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/pagebreak/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/paste/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/preview/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/print/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/save/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/searchreplace/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/spellchecker/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/tabfocus/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/table/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/template/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/textcolor/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/textpattern/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/toc/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/visualblocks/css/visualblocks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/visualblocks/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/visualchars/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/plugins/wordcount/plugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/content.inline.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/content.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/content.mobile.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-mobile.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/img/anchor.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/img/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/img/object.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/img/trans.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/skin.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/skins/lightgray/skin.mobile.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/themes/inlite/theme.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/themes/mobile/theme.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/themes/modern/theme.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vendor/tinymce/js/tinymce/tinymce.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/assets/css/bootstrap-select.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/assets/css/payment-fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/assets/css/plugins.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/assets/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/assets/js/components/ExampleComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/assets/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/assets/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/js/components/ExampleComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/abc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/al/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/al/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/ar/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/ar/language.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/ar/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/az/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/bg/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/bn/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/de/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/en/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/en/language.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/es/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/es/language.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/fr/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/fr/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/hi/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/id/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/it/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/lao/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/lv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/lv/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/ms/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/nl/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/pt_BR/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/ru/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/s_chinese/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/s_chinese/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/store.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/store/.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/swahili/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/swahili/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/t_chinese/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/tr/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/al/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/ar/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/az/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/bg/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/de/errors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/de/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/en/errors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/en/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/es/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/fr/errors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/fr/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/hi/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/id/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/it/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/lao/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/ms/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/nl/errors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/nl/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/pt_BR/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/ru/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/s_chinese/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/swahili/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/t_chinese/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/tr/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vendor/translation/vi/translation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/vi/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/account/account_statement.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/account/balance_sheet.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/account/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/addonlist.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/adjustment/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/adjustment/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/adjustment/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/adjustment/salePrice.blade copy 2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/adjustment/salePrice.blade copy 3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/adjustment/salePrice.blade copy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/adjustment/salePrice.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/agent/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/agent/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/area/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/attendance/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/auth/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/auth/passwords/email.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/auth/passwords/reset.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/auth/register-backup.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/auth/register.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/auth/verify.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/barcode/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/barcode/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/barcode/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/biller/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/biller/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/biller/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/brand/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/cash_register/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/category/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/challan/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/challan/finalize.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/challan/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/challan/invoice.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/challan/money_reciept.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/charts.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/company/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/coupon/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/courier/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/currency/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/custom_field/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/custom_field/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/custom_field/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/customer/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/customer/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/customer/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/customer_group/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/customer_index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/delivery/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/delivery/index_new.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/department/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/discount/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/discount/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/discount/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/discount_plan/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/discount_plan/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/discount_plan/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/documentation.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/documentation_0.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/ecom-documentation.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/employee/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/employee/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/expense/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/expense_category/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/forms.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/gift_card/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/group/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/holiday/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/holiday/my_holiday.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/home.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/income/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/income_category/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/inquiry/create.blade copy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/inquiry/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/inquiry/create_quotation.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/inquiry/index.blade copy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/inquiry/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/inquiry/print.blade copy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/inquiry/print.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/labels/print_label.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/labels/show.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/layout/0main_rtl.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/layout/main.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/layout/sidebar.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/layout/top-head-rtl.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/layout/top-head.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/layouts/app.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/biller_create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/contact_form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/customer_create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/customer_deposit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/delivery_challan.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/delivery_details.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/gift_card_create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/gift_card_recharge.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/holiday_approve.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/log_message.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/payment_details.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/payroll_details.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/quotation_details.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/return_details.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/sale_details.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/supplier_create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/transfer_details.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/mail/user_details.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/money_transfer/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/notification/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/packing_slip/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/packing_slip/invoice.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/payroll/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/product/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/product/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/product/gallery_image.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/product/history.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/product/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/product/print_barcode.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/product/print_barcode_backup.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/product/print_barcode_rongta.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/purchase/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/purchase/duplicate.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/purchase/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/purchase/import.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/purchase/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/quotation/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/quotation/create_purchase.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/quotation/create_sale.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/quotation/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/quotation/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/agent_commission_report.blade copy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/agent_commission_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/best_seller.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/biller_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/challan_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/customer_group_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/customer_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/daily_purchase.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/daily_sale.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/daily_sale_objective.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/due_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/monthly_purchase.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/monthly_sale.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/payment_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/product_expiry_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/product_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/product_report_data.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/profit_loss.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/purchase_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/qty_alert_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/sale_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/sale_report_chart.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/single_product_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/supplier_due_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/supplier_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/user_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/warehouse_report.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/report/warehouse_stock.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/return/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/return/create_backup.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/return/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/return/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/return1/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/return1/create_backup.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/return1/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/return1/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/return_purchase/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/return_purchase/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/return_purchase/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/role/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/role/permission.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/sale/a4_invoice.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/sale/challan.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/sale/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/sale/create_sale.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/sale/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/sale/import.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/sale/index.blade copy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/sale/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/sale/invoice.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/sale/invoice58.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/sale/invoice_backup.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/sale/pos.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/setting/create_sms.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/setting/general_setting.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/setting/hrm_setting.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/setting/mail_setting.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/setting/payment-gateways.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/setting/pos_setting.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/setting/reward_point_setting.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/setting/sms_setting.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/sms_templates/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/stock_count/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/stock_count/qty_adjustment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/supplier/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/supplier/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/supplier/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/table/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/tax/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/terms/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/transfer/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/transfer/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/transfer/import.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/transfer/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/unit/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/user/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/user/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/user/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/user/my_transaction.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/user/profile.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/warehouse/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/warrenty/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/warrenty/create_backup.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/warrenty/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/backend/warrenty/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/bug_update/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/dashboard.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/developer_section/bug_update_setting.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/developer_section/general.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/developer_section/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/developer_section/version_upgrade_setting.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/errors/404.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/errors/419.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/errors/500.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/errors/503.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/includes/session_message.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/layout.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/vendor/translation/forms/search.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/vendor/translation/forms/select.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/vendor/translation/forms/text.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/vendor/translation/icons/globe.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/vendor/translation/icons/translate.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/vendor/translation/languages/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/vendor/translation/languages/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/vendor/translation/languages/translations/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/vendor/translation/languages/translations/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/vendor/translation/layout.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/vendor/translation/nav.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/vendor/translation/notifications.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/version_upgrade/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/web_old.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storage/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/Feature/UserTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/Unit/UserTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../track/control.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../track/fetch-data-bug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../track/fetch-data-upgrade.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../track/general.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../track/sample.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../word list.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zamaiuxl_inventory.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zaman2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zaman_inv/app/Http/Controllers/InquiryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../zaman_inv/app/Http/Controllers/InquiryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zaman_inv/resources/views/backend/inquiry/print.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../zaman_inv/resources/views/backend/inquiry/print.blade.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerConfigs">
+    <option name="configs">
+      <option value="$PROJECT_DIR$/Modules/Ecommerce/composer.json" />
+      <option value="$PROJECT_DIR$/Modules/Manufacturing/composer.json" />
+    </option>
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:/xampp/php/php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/automattic/woocommerce" />
+      <path value="$PROJECT_DIR$/vendor/razorpay/razorpay" />
+      <path value="$PROJECT_DIR$/vendor/stripe/stripe-php" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/vendor/laravel/prompts" />
+      <path value="$PROJECT_DIR$/vendor/laravel/legacy-factories" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/milon/barcode" />
+      <path value="$PROJECT_DIR$/vendor/rmccue/requests" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/carbonphp/carbon-doctrine-types" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/intervention/gif" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/xendit/xendit-php" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/twilio/sdk" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/vendor/nwidart/laravel-modules" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/vendor/salla/zatca" />
+      <path value="$PROJECT_DIR$/vendor/gladcodes/keygen" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/chillerlan/php-settings-container" />
+      <path value="$PROJECT_DIR$/vendor/chillerlan/php-qrcode" />
+      <path value="$PROJECT_DIR$/vendor/php-debugbar/php-debugbar" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/joedixon/laravel-translation" />
+      <path value="$PROJECT_DIR$/vendor/srmklive/paypal" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/spatie/backtrace" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/orangehill/iseed" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-permission" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-ignition" />
+      <path value="$PROJECT_DIR$/vendor/spatie/ignition" />
+      <path value="$PROJECT_DIR$/vendor/spatie/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/spatie/error-solutions" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem-local" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/config" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/kwn/number-to-words" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-uuid" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="30IygI5vS3y2LZ49aLa21vIu9Xo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/mehedi-new-ui",
+    "last_opened_file_path": "D:/Office_Projects/zaman3_final",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PS-251.26094.133" />
+        <option value="bundled-php-predefined-a98d8de5180a-c5828cf854d9-com.jetbrains.php.sharedIndexes-PS-251.26094.133" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="026aabf4-d69c-43d0-a73d-ed99c8d9e75b" name="Changes" comment="" />
+      <created>1753329490480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753329490480</updated>
+      <workItem from="1753329492632" duration="2269000" />
+      <workItem from="1753338551536" duration="13238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/routes/web.php</url>
+          <line>425</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/QuotationController.php</url>
+          <line>361</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/QuotationController.php</url>
+          <line>1026</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
